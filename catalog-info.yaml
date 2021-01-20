@@ -1,0 +1,12 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: "g1-docs"
+  description: "g1-docs"
+  annotations:
+    github.com/project-slug: "alokmaurya1/g1-docs"
+    backstage.io/techdocs-ref: github:https://github.com/alokmaurya1/g1-docs
+spec:
+  type: documentation
+  lifecycle: experimental
+  owner: "alokmaurya1"

@@ -1,0 +1,8 @@
+site_name: "g1-docs"
+site_description: "g1-docs"
+
+nav:
+  - Introduction: index.md
+
+plugins:
+  - techdocs-core
